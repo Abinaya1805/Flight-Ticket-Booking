@@ -49,11 +49,38 @@ Important User functionalities inclide :
 
    The Booking table will contain the information of the bookings taken place. The admin can see all the bookings made in admin portal whereas in a user can only see his/her bookings in user portal. The booking also contains Ticketid and the time of when the booking had taken place.
    
-   ![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/a33eba99-de5a-47cc-b282-20b5e2e6f7fa)
+   ![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/aff77118-79be-41a5-b2f8-0f0ae122b5b4)
 
    
+   ![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/34ac7b97-e234-4f31-bced-9e1f2405e907)
+
+
+   
+ ![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/60e9aa51-e3b3-4b41-bf92-1e931b9805d4)
+
  
- 
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/ff26d09b-e181-4f43-8947-4bae426a3d7c)
+
+
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/d96ea27c-8088-47ba-a395-473fa84a142f)
 
 
 
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/ce33d6d0-2372-4b7a-b543-60206b27bdee)
+
+
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/437dc1e9-0843-47bb-9f58-a23dde8d9d98)
+
+
+
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/9023fbde-8cb9-4f9d-9dc1-fdaaebd519e3)
+
+
+
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/330ee59a-54dc-4bb1-9b4d-967ce614e7b6)
+
+
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/a1f81ed5-93a1-4511-b502-be1948743a87)
+
+
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/4243ca1d-9550-4a50-9530-0f4578ea5578)
