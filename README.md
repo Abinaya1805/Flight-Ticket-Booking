@@ -60,6 +60,7 @@ Important User functionalities inclide :
 
  
 ![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/ff26d09b-e181-4f43-8947-4bae426a3d7c)
+![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/b27e8dae-8966-464b-8a9f-af10e2e89346)
 
 
 ![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/d96ea27c-8088-47ba-a395-473fa84a142f)
