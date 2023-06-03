@@ -49,6 +49,9 @@ Important User functionalities inclide :
 
    The Booking table will contain the information of the bookings taken place. The admin can see all the bookings made in admin portal whereas in a user can only see his/her bookings in user portal. The booking also contains Ticketid and the time of when the booking had taken place.
    
+   ![image](https://github.com/Abinaya1805/Flight-Ticket-Booking/assets/93873088/a33eba99-de5a-47cc-b282-20b5e2e6f7fa)
+
+   
  
  
 
